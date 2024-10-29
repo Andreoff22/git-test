@@ -1,0 +1,5 @@
+{"timestamp":1315988,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1730219573543"}}
+{"timestamp":1318177,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","glean_timestamp":"1730219575731","reason":"invalid-feature","feature":"addAnImageInPDF"}}
+{"timestamp":1318177,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"tab-hover-preview-release-rollout","reason":"invalid-feature","feature":"tabPreview","glean_timestamp":"1730219575732"}}
+{"timestamp":1318178,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1730219575732"}}
+{"timestamp":1320783,"category":"urlbar","name":"engagement","extra":{"glean_timestamp":"1730219578338","search_engine_default_id":"google-ubuntu-sn","n_chars":"0","search_mode":"","groups":"heuristic","selected_position":"1","results":"tip_onboard","provider":"UrlbarProviderSearchTips","n_results":"1","sap":"urlbar_newtab","n_words":"0","interaction":"typed","actions":"none","engagement_type":"click","selected_result":"tip_onboard"}}
